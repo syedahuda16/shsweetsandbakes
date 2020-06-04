@@ -1,0 +1,93 @@
+
+.head-buttons a {
+    padding: 2px;
+    font-size: 12px;
+    border: 1px solid yellow;
+    color: chocolate;
+    border-radius: 2px;
+    
+}
+.heading1{
+    background-color: chocolate;
+}
+.navbar{
+    background-color: chocolate;
+    
+}
+.nav-link{
+    color: white !important;
+}
+.dropdown-menu{
+    background-color: chocolate !important;
+}
+.button{
+    background-color: chocolate;
+    margin:5px;
+    border-radius:5px;
+    color:white;
+}
+.sign{
+    background-color: chocolate;
+    color: white;
+}
+.text{
+    color: chocolate;
+}
+.orderfood{
+    background-color: chocolate;
+    color: white;
+}
+
+
+.fa-globe{
+    color: skyblue;
+    } 
+    .fa-phone{
+    color: green;
+    }
+    .fa-whatsapp{
+    color: green;
+    }
+    .fa-facebook{
+        color:blue;
+        } 
+        .fa-instagram{
+        color: purple;
+        }
+        .fa-twitter{
+        color:skyblue;
+        }
+
+        .fa-youtube{
+            color:red;
+            }
+            .inline{
+                background-color:chocolate;
+                margin:10px 10px 10px 10px;
+                box-shadow: 1px 1px 20px chocolate;
+                color:white;
+                width: 250px;
+                height: 500opx;
+                display: inline-block;
+            }
+            .fa-utensils, .fa-thumbs-up, .fa-calendar-check, .fa-truck{
+                color:white;
+            }
+
+            strong{
+                color: yellow;
+                text-shadow:  1px 2px 3px chocolate;
+                font-weight: bold;
+            }
+
+
+
+
+
+
+.footer {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    color:yellow;
+    background-color:chocolate;
